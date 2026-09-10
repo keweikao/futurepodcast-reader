@@ -1,0 +1,9 @@
+# 只部署建置產物；音檔、模型、逐字稿與筆記原檔不進這個 repo
+*.mp3
+*.download
+model/
+model-cache/
+transcripts/
+notes/
+.venv/
+.DS_Store
